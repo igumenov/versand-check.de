@@ -1,0 +1,11 @@
+# versand-check.de
+* https://igumenov.github.io/versand-check.de/index.html
+* https://igumenov.github.io/versand-check.de/calc_result.html
+* https://igumenov.github.io/versand-check.de/calculator.html
+* https://igumenov.github.io/versand-check.de/faq.html
+* https://igumenov.github.io/versand-check.de/result_guest.html
+* https://igumenov.github.io/versand-check.de/result_user.html
+* https://igumenov.github.io/versand-check.de/service.html
+* https://igumenov.github.io/versand-check.de/service_list.html
+* https://igumenov.github.io/versand-check.de/support.html
+* https://igumenov.github.io/versand-check.de/user.html
